@@ -13,4 +13,4 @@ This repository contains the tasks completed during my Machine Learning Internsh
 - Achieved ~86.5% accuracy
 
 ## Author
-Naresh
+V Naresh
