@@ -42,9 +42,9 @@ The dataset contains SMS messages with labels:
 
 | Model | Accuracy |
 |------|---------|
-| Logistic Regression | ~96.7% |
-| Naive Bayes | ~96.2% |
-| Random Forest | **~97.6%** |
+| Logistic Regression | 96.7% |
+| Naive Bayes | 96.2% |
+| Random Forest | **97.6%** |
 
 ---
 
