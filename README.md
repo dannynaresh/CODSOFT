@@ -65,6 +65,7 @@ Each task focuses on solving real-world problems using machine learning techniqu
 
 ## 📁 Repository Structure
 
+```
 CODSOFT/
 ├── Task1_Spam_SMS_Detection/
 ├── Task2_Customer_Churn_Prediction/
@@ -75,11 +76,9 @@ CODSOFT/
 ---
 
 ## 👨‍💻 Author
-
 **V Naresh**
 
 ---
 
 ## ⭐ Final Note
-
 This internship provided hands-on experience in building machine learning models across multiple domains including text classification, customer analytics, and fraud detection.
